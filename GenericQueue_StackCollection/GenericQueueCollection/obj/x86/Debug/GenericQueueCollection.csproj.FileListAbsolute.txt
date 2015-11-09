@@ -1,0 +1,8 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection\GenericQueueCollection\bin\Debug\GenericQueueCollection.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection\GenericQueueCollection\bin\Debug\GenericQueueCollection.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection\GenericQueueCollection\obj\x86\Debug\GenericQueueCollection.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection\GenericQueueCollection\obj\x86\Debug\GenericQueueCollection.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\GenericQueue_StackCollection\GenericQueueCollection\obj\x86\Debug\GenericQueueCollection.exe
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\GenericQueue_StackCollection\GenericQueueCollection\obj\x86\Debug\GenericQueueCollection.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\GenericQueue_StackCollection\GenericQueueCollection\bin\Debug\GenericQueueCollection.exe
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\GenericQueue_StackCollection\GenericQueueCollection\bin\Debug\GenericQueueCollection.pdb

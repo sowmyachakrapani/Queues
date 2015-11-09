@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection_Exp\GenericQueueCollection_Exp\bin\GenericQueueCollection_Exp.dll
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection_Exp\GenericQueueCollection_Exp\bin\GenericQueueCollection_Exp.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection_Exp\GenericQueueCollection_Exp\obj\Debug\GenericQueueCollection_Exp.dll
+c:\users\chakrapani\documents\visual studio 2010\Projects\GenericQueueCollection_Exp\GenericQueueCollection_Exp\obj\Debug\GenericQueueCollection_Exp.pdb
